@@ -60,7 +60,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HutanshSharma&theme=github" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=github-compact" />
 </p>
 
 ---
