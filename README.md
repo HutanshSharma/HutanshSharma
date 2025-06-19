@@ -15,29 +15,33 @@
 
 ### 🛠️ Skills & Technologies
 
-#### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<!-- Languages -->
+<h4>Languages</h4>
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" alt="C" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
 
-#### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464647?style=flat-square&logo=python)
-![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+<!-- Frameworks & Libraries -->
+<h4>Frameworks & Libraries</h4>
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask" alt="Flask" />
+<img src="https://img.shields.io/badge/-SQLAlchemy-464647?style=flat-square&logo=python" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt" alt="PyQt" />
+<img src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt" alt="Qt" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap" alt="Bootstrap" />
 
-#### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<!-- Databases -->
+<h4>Databases</h4>
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite" alt="SQLite" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" alt="PostgreSQL" />
 
-#### Tools & IDEs
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![PgAdmin](https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql)
-![QtDesigner](https://img.shields.io/badge/-QtDesigner-41CD52?style=flat-square&logo=qt)
+<!-- Tools & IDEs -->
+<h4>Tools & IDEs</h4>
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt="VS Code" />
+<img src="https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql" alt="PgAdmin" />
+<img src="https://img.shields.io/badge/-QtDesigner-41CD52?style=flat-square&logo=qt" alt="QtDesigner" />
 
 ---
 
