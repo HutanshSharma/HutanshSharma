@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Hutansh Sharma]</h1>
+<h1 align="center">Hi 👋, I'm Hutansh Sharma</h1>
 <h3 align="center">A passionate full-stack developer and CSE student at IIT Jammu</h3>
 
 ---
