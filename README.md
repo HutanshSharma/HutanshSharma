@@ -37,7 +37,7 @@
 #### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![PgAdmin](https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql)
-![QtDesigner](https://img.shields.io/badge/-QtDesigner-41CD52?style=flat-square&logo=qt) change thses to image tags
+![QtDesigner](https://img.shields.io/badge/-QtDesigner-41CD52?style=flat-square&logo=qt)
 
 ---
 
