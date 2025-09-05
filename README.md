@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering at IIT Jammu**
-- 🌱 Currently learning **DSA, Web Development , and Qt**
+- 🌱 Currently learning **DSA, Full Stack Development , and Qt**
 - 💻 I build full-stack web and desktop applications
 - 📫 Reach me at: [hutanshsharma241005@gmail.com]
 - ⚡ Fun fact: I enjoy designing both intuitive UIs and efficient backends
@@ -29,13 +29,13 @@
 ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 #### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 #### Tools & IDEs
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![PgAdmin](https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql)
 ![QtDesigner](https://img.shields.io/badge/-QtDesigner-41CD52?style=flat-square&logo=qt)
 
@@ -64,6 +64,8 @@
 
 ### 📌 Pinned Projects
 
+- 🔗 [Live-Editor](https://github.com/HutanshSharma/Live-Editor)
+- 🔗 [Github-Crawlee](https://github.com/HutanshSharma/Github-Crawlee)
 - 🔗 [Academic-Project-Portal](https://github.com/HutanshSharma/Academic-Project-Portal)
 - 🔗 [Music_Player](https://github.com/HutanshSharma/Music_Player)
 - 🔗 [File-Folder-Compression-tool](https://github.com/HutanshSharma/File-Folder-Compression-tool)
