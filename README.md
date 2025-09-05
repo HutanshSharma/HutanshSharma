@@ -65,7 +65,7 @@
 ### 📌 Pinned Projects
 
 - 🔗 [Live-Editor](https://github.com/HutanshSharma/Live-Editor)
-- 🔗 [Github-Crawlee](https://github.com/HutanshSharma/GitCrawlee)
+- 🔗 [GitCrawlee](https://github.com/HutanshSharma/GitCrawlee)
 - 🔗 [Academic-Project-Portal](https://github.com/HutanshSharma/Academic-Project-Portal)
 - 🔗 [Music_Player](https://github.com/HutanshSharma/Music_Player)
 - 🔗 [File-Folder-Compression-tool](https://github.com/HutanshSharma/File-Folder-Compression-tool)
