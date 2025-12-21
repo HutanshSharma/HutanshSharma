@@ -57,12 +57,12 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img alt="Github-snake" src="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-snake.svg" style="visibility: visible; max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HutanshSharma&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
+###  Pinned Projects
 
 - 🔗 [Live-Editor](https://github.com/HutanshSharma/Live-Editor)
 - 🔗 [GitCrawlee](https://github.com/HutanshSharma/GitCrawlee)
