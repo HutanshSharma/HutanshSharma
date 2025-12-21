@@ -57,7 +57,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=github-compact" />
+  <img alt="Github-snake" src="https://raw.githubusercontent.com/himanshu-alt-sft/himanshu-alt-sft/output/github-snake.svg" style="visibility: visible; max-width: 100%;/>
 </p>
 
 ---
