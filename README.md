@@ -51,13 +51,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HutanshSharma&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
 </p>
 
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HutanshSharma&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 
 ### 📈 Contribution Graph
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HutanshSharma&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=github-compact" />
 </p>
 
 ---
