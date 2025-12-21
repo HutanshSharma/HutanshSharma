@@ -57,7 +57,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img alt="Github-snake" src="https://raw.githubusercontent.com/himanshu-alt-sft/HutanshSharma/output/github-snake.svg" style="visibility: visible; max-width: 100%;"/>
+  <img alt="Github-snake" src="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-snake.svg" style="visibility: visible; max-width: 100%;"/>
 </p>
 
 ---
