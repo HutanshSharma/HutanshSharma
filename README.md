@@ -95,8 +95,8 @@ My focus is on building scalable applications, designing intuitive user experien
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/HutanshSharma/Live-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Live-Editor&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/HutanshSharma/Aurora-The-AI-Image-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Aurora-The-AI-Image-Editor&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/HutanshSharma/GitCrawlee">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=GitCrawlee&theme=tokyonight&hide_border=true" />
@@ -104,13 +104,14 @@ My focus is on building scalable applications, designing intuitive user experien
 </p>
 
 <p align="center">
-  <a href="https://github.com/HutanshSharma/Academic-Project-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Academic-Project-Portal&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/HutanshSharma/Live-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Live-Editor&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/HutanshSharma/Music_Player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Music_Player&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/HutanshSharma/Authorization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Authorization&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
 
 <br>
 
