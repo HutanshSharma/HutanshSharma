@@ -1,77 +1,126 @@
-<h1 align="center">Hi 👋, I'm Hutansh Sharma</h1>
-<h3 align="center">A passionate full-stack developer and CSE student at IIT Jammu</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hutansh%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20@%20IIT%20Jammu&descAlignY=55&descSize=18" />
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+IIT+Jammu;Full-Stack+Developer;FastAPI+%7C+React+%7C+Qt;Open+Source+Contributor;Building+Scalable+Applications" />
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering at IIT Jammu**
-- 🌱 Currently learning **DSA, Full Stack Development , and Qt**
-- 💻 I build full-stack web and desktop applications
-- 📫 Reach me at: [hutanshsharma241005@gmail.com]
-- ⚡ Fun fact: I enjoy designing both intuitive UIs and efficient backends
+<p>
+  <a href="https://www.linkedin.com/in/hutansh-sharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/HUTANSH_sharma/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:hutanshsharma241005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/HutanshSharma">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+</div>
 
-### 🛠️ Skills & Technologies
+<br>
 
-#### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+## About Me
 
-#### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-464647?style=flat-square&logo=python)
-![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat-square&logo=qt)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+I am a Computer Science and Engineering undergraduate at IIT Jammu with interests in software engineering, full-stack development, desktop application development, and machine learning.
 
-#### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+My focus is on building scalable applications, designing intuitive user experiences, contributing to open-source projects, and continuously expanding my technical expertise.
 
-#### Tools & IDEs
-![PgAdmin](https://img.shields.io/badge/-PgAdmin-336791?style=flat-square&logo=postgresql)
-![QtDesigner](https://img.shields.io/badge/-QtDesigner-41CD52?style=flat-square&logo=qt)
+- Pursuing B.Tech in Computer Science & Engineering at IIT Jammu
+- Interested in Backend Engineering, AI Applications, and System Design
+- Passionate about building production-ready software
 
----
+<br>
 
-### 📊 GitHub Stats
+## Technology Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css&theme=dark" />
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,bootstrap,tailwind,qt&theme=dark" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+<br>
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HutanshSharma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HutanshSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HutanshSharma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HutanshSharma&layout=compact&theme=radical&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=HutanshSharma&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HutanshSharma&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=react-dark&hide_border=true" />
 </p>
 
----
+<br>
 
-
-### 📈 Contribution Graph
+## Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=github-compact" />
+  <img src="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+## Featured Projects
 
-###  Pinned Projects
+<p align="center">
+  <a href="https://github.com/HutanshSharma/Live-Editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Live-Editor&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/HutanshSharma/GitCrawlee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=GitCrawlee&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-- 🔗 [Live-Editor](https://github.com/HutanshSharma/Live-Editor)
-- 🔗 [GitCrawlee](https://github.com/HutanshSharma/GitCrawlee)
-- 🔗 [Academic-Project-Portal](https://github.com/HutanshSharma/Academic-Project-Portal)
-- 🔗 [Music_Player](https://github.com/HutanshSharma/Music_Player)
-- 🔗 [File-Folder-Compression-tool](https://github.com/HutanshSharma/File-Folder-Compression-tool)
+<p align="center">
+  <a href="https://github.com/HutanshSharma/Academic-Project-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Academic-Project-Portal&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/HutanshSharma/Music_Player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Music_Player&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
----
+<br>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hutansh-sharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hutanshsharma241005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/HutanshSharma">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" />
+</div>
