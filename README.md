@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hutansh%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20@%20IIT%20Jammu&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+IIT+Jammu;Full-Stack+Developer;FastAPI+%7C+React+%7C+Qt;Open+Source+Contributor;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+IIT+Jammu;Full-Stack+Developer;FastAPI+%7C+React+%7C+Qt;Building+Scalable+Applications" />
 
 <p>
   <a href="https://www.linkedin.com/in/hutansh-sharma/">
