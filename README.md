@@ -79,7 +79,11 @@ My focus is on building scalable applications, designing intuitive user experien
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HutanshSharma/HutanshSharma/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ## Featured Projects
