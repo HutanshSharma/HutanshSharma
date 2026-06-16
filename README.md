@@ -39,7 +39,7 @@ My focus is on building scalable applications, designing intuitive user experien
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
