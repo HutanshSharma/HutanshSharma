@@ -63,7 +63,7 @@ My focus is on building scalable applications, designing intuitive user experien
 
 <p align="center">
   <img height="170" src="https://github-readme-self.vercel.app/api/stats?username=HutanshSharma" />
-  <img height="170" src="https://github-readme-self.vercel.app/api/top-langs?username=HutanshSharma" />
+  <img height="170" src="https://github-readme-self.vercel.app/api/top-langs?username=HutanshSharma&include=Content-diffusion-simulator" />
 </p>
 
 <p align="center">
