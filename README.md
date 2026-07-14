@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hutansh%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20@%20IIT%20Jammu&descAlignY=55&descSize=18" />
+<img src="https://github-readme-self.vercel.app/api/banner?color=2563EB&height=200&text=Hutansh%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20@%20IIT%20Jammu&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+IIT+Jammu;Full-Stack+Developer;FastAPI+%7C+React+%7C+Qt;Building+Scalable+Applications" />
+<img src="https://github-readme-self.vercel.app/api/typing?size=22&pause=1000&color=2563EB&width=600&lines=Computer%20Science%20Student%20at%20IIT%20Jammu;Full-Stack%20Developer;FastAPI%20%7C%20React%20%7C%20Qt;Building%20Scalable%20Applications" />
 
 <p>
   <a href="https://www.linkedin.com/in/hutansh-sharma/">
@@ -62,16 +62,16 @@ My focus is on building scalable applications, designing intuitive user experien
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HutanshSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HutanshSharma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-self.vercel.app/api/stats?username=HutanshSharma" />
+  <img height="170" src="https://github-readme-self.vercel.app/api/top-langs?username=HutanshSharma" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HutanshSharma&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-self.vercel.app/api/streak?user=HutanshSharma" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HutanshSharma&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-self.vercel.app/api/activity?username=HutanshSharma" />
 </p>
 
 <br>
@@ -96,19 +96,19 @@ My focus is on building scalable applications, designing intuitive user experien
 
 <p align="center">
   <a href="https://github.com/HutanshSharma/Aurora-The-AI-Image-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Aurora-The-AI-Image-Editor&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=Aurora-The-AI-Image-Editor" />
   </a>
   <a href="https://github.com/HutanshSharma/GitCrawlee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=GitCrawlee&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=GitCrawlee" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/HutanshSharma/Live-Editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Live-Editor&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=Live-Editor" />
   </a>
   <a href="https://github.com/HutanshSharma/Authorization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HutanshSharma&repo=Authorization&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=Authorization" />
   </a>
 </p>
 
@@ -133,5 +133,5 @@ My focus is on building scalable applications, designing intuitive user experien
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" />
+<img src="https://github-readme-self.vercel.app/api/banner?color=2563EB&height=100&section=footer" />
 </div>
