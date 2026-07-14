@@ -95,20 +95,20 @@ My focus is on building scalable applications, designing intuitive user experien
 ## Featured Projects
 
 <p align="center">
+  <a href="https://github.com/kishan-arya/Content-diffusion-simulator">
+    <img src="https://github-readme-self.vercel.app/api/pin?username=kishan-arya&repo=Content-diffusion-simulator" />
+  </a>
   <a href="https://github.com/HutanshSharma/Aurora-The-AI-Image-Editor">
     <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=Aurora-The-AI-Image-Editor" />
-  </a>
-  <a href="https://github.com/HutanshSharma/GitCrawlee">
-    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=GitCrawlee" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/HutanshSharma/GitCrawlee">
+    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=GitCrawlee" />
+  </a>
   <a href="https://github.com/HutanshSharma/Live-Editor">
     <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=Live-Editor" />
-  </a>
-  <a href="https://github.com/HutanshSharma/Authorization">
-    <img src="https://github-readme-self.vercel.app/api/pin?username=HutanshSharma&repo=Authorization" />
   </a>
 </p>
 
